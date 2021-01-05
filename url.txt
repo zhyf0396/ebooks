@@ -1,0 +1,8 @@
+1¡¢Istio Handbook
+https://www.servicemesher.com/istio-handbook/
+
+2¡¢¸ßÐÔÄÜGolang
+http://xiaorui.cc/archives/category/golang
+
+3¡¢kubernetes handbook
+https://jimmysong.io/kubernetes-handbook/
